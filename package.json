@@ -1,0 +1,13 @@
+{
+  "name": "traffic-fuzzy",
+  "version": "1.0.0",
+  "description": "Intelligent Traffic Control System using Fuzzy Logic \u2013 Node.js + JSON DB",
+  "main": "nodejs/server.js",
+  "scripts": {
+    "start": "node nodejs/server.js",
+    "dev": "node nodejs/server.js"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
